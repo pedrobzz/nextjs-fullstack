@@ -1,1 +1,1 @@
-Meu Template de NextJS TypeScript
+Template NextJS com tRPC
